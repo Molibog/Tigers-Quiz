@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "inquirer": "^8.2.6",
+    "play-sound": "^1.1.6",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
