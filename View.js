@@ -1,3 +1,4 @@
+
 const inquirer = require('inquirer');
 const play = require('play-sound')();
 const fs = require('fs');
@@ -150,3 +151,4 @@ function chooseCategory() {
 }
 // Запуск выбора категории
 chooseCategory();
+
